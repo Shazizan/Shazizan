@@ -1,7 +1,7 @@
+![](mainheader.png)
+
 ## Hi there 👋🏻
 I'm Zizan, a data wizard brewing raw data with SQL charms & Python potions — conjuring enchanted bridges to stream it into the grand data warehouse.
-
-![](mainheader.png)
 
  **Be warmly welcomed**  
 > to the *enchanted halls* where my **coding spells** weave *data into magic* 🪄.
