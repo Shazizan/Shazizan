@@ -1,6 +1,6 @@
 ![](mainheader.png)
 
-## Hi there 👋🏻
+## On a glance 👋🏻
 I'm Zizan, a data Conjuror channeling raw data with SQL spells and Python enchantments — conjuring bridges to stream it into the grand data warehouse.
 
  **Be warmly welcomed**  
