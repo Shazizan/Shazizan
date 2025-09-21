@@ -11,8 +11,23 @@ A Data Wizard specialising in ETL Conjurations, channeling raw data with SQL spe
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=Shazizan&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>-->
-![](https://nirzak-streak-stats.vercel.app/?user=Shazizan&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shazizan&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<!--![](https://nirzak-streak-stats.vercel.app/?user=Shazizan&theme=radical&hide_border=true)<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shazizan&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)-->
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shazizan&theme=radical&hide_border=true&include_all_commits=true&count_private=false" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Shazizan&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazizan&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
