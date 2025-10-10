@@ -1,7 +1,7 @@
 ![](mainheader.png)
 
 ## 🌟Spotlight:
-A Data Wizard specialising in ETL Conjurations, channeling raw data with SQL spells and Python enchantments — conjuring enchanted bridges to stream it into the grand data warehouse. A devoted practitioner of quantitative sciences, weaving insights from Arithmancy and decision sciences into every incantation, crafting pipelines with precision in Databricks’ downstream realms. Passionate about analytics, discovery, and the Japanese language, thriving on exploring new realms, swiftly troubleshooting issues, and forging inventive solutions along the magical flow of data.<br><br>
+A Data Wizard specialising in ETL Conjurations, channeling raw data with SQL spells and Python enchantments — conjuring enchanted bridges to stream it into the grand data warehouse. A devoted practitioner of quantitative sciences, weaving insights from Arithmancy and decision sciences into every incantation, crafting pipelines with precision in Databricks’ downstream realms. Passionate about analytics, discovery, and the Japanese language, thriving on exploring new realms, swiftly troubleshooting issues and forging inventive solutions along the magical flow of data.<br><br>
 
 ## 🤝Connections:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shazizan/) 
