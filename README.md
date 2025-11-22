@@ -1,7 +1,14 @@
 ![](mainheader.png)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&width=435&lines=Pipelines+that+shape+your+data+story%F0%9F%A7%A9" alt="Typing SVG" />
+  </a>
+</p>
+
+
 ## 🌟Spotlight:
-A Data Wizard specialising in ETL Conjurations, channeling raw data with SQL spells and Python enchantments — conjuring enchanted bridges to stream it into the grand data warehouse. A devoted practitioner of quantitative sciences, weaving insights from Arithmancy and decision sciences into every incantation, crafting pipelines with precision in Databricks’ downstream realms. Passionate about analytics, discovery, and the Japanese language, thriving on exploring new realms, swiftly troubleshooting issues and forging inventive solutions along the magical flow of data.<br><br>
+A Data Wizard specialising in ETL Conjurations, channeling raw data with SQL spells and Python enchantments — conjuring enchanted bridges to stream it into the grand data warehouse. A devoted practitioner of quantitative sciences, weaving Arithmancy and decision sciences into every analytical calculation, crafting pipelines with precision in Databricks’ downstream realms. Passionate about analytics, discovery, and the Japanese language, thriving on exploring new realms, swiftly troubleshooting issues and forging inventive solutions along the magical flow of data.<br><br>
 
 ## 🤝Connections:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shazizan/) 
